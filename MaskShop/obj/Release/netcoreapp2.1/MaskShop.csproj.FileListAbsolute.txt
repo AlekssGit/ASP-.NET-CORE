@@ -1,0 +1,14 @@
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\bin\Release\netcoreapp2.1\MaskShop.deps.json
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\bin\Release\netcoreapp2.1\MaskShop.runtimeconfig.json
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\bin\Release\netcoreapp2.1\MaskShop.runtimeconfig.dev.json
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\bin\Release\netcoreapp2.1\MaskShop.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\bin\Release\netcoreapp2.1\MaskShop.pdb
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.csprojAssemblyReference.cache
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.csproj.CoreCompileInputs.cache
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.RazorAssemblyInfo.cache
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.RazorAssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.AssemblyInfoInputs.cache
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.AssemblyInfo.cs
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.RazorTargetAssemblyInfo.cache
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.dll
+C:\Sasha\Eltech\.NET Labs\MaskShop\MaskShop\obj\Release\netcoreapp2.1\MaskShop.pdb

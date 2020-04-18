@@ -1,0 +1,12 @@
+﻿@model HomeViewModel
+
+<h1>Самые покупаемые</h1>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Mask mask in Model.favMasks)
+        {
+            @Html.Partial("AllMasks", mask)
+        }
+    }
+</div>
+

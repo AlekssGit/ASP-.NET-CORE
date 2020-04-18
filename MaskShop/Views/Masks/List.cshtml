@@ -1,0 +1,11 @@
+﻿ 
+<h1>Все маски</h1>
+ <h3>@Model.currCategory</h3>
+ <div class="row mt-5 mb-2">
+     @{
+         foreach (Mask mask in Model.getAllMasks)
+         {
+            @Html.Partial("AllMasks", mask)
+         }
+     }
+ </div>
